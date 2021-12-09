@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\bin\Debug\aplicacionContactosDB.exe.config
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\bin\Debug\aplicacionContactosDB.exe
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\bin\Debug\aplicacionContactosDB.pdb
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.Form1.resources
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.Properties.Resources.resources
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.exe
+C:\Users\Roberto\source\repos\aplicacionContactosDB\aplicacionContactosDB\obj\Debug\aplicacionContactosDB.pdb
